@@ -1,0 +1,5 @@
+projectKey=my:OnTime
+serverUrl=http://localhost:9000
+dashboardUrl=http://localhost:9000/dashboard/index/my:OnTime
+ceTaskId=AVy1vRnRNnKVjBD0TaOz
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AVy1vRnRNnKVjBD0TaOz
